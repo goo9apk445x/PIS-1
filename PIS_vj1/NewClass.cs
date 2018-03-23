@@ -9,4 +9,7 @@ namespace PIS_vj1
     class NewClass
     {
     }
+    class OtherClass
+    {
+    }
 }
